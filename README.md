@@ -48,5 +48,5 @@ The **Random Forest** model performed well, capturing non-linear patterns and fe
 
 > *Achieved an accuracy of: 82.12
 
-## 📁 Folder Structure
+
 
